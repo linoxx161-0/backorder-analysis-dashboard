@@ -1,0 +1,305 @@
+﻿tran_id,created_date,reached_bo_date,item_manufacturer,item_name,so_line,so_quantity,bo_quantity,item_curve,item_buyer,field,bo_status,new_value,is_dropship,IsUnder,IsAfter,Buckets,Hours 2,MAX so_amount,Under 48 hours,After 48 Hours
+SO207544,03/12/2026 12:50:43.000 PM,03/16/2026 03:05:56.000 PM,Vesda,VSP-811,1,4,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,4,F,F,T,F. 49 a 60h,50,308,0,1
+SO207544,03/12/2026 12:50:43.000 PM,03/16/2026 03:05:56.000 PM,Vesda,VSP-811,1,4,0,CZ,Arthur Malheiro,Committed,Purchased,4,F,F,T,F. 49 a 60h,50,308,0,1
+SO207544,03/12/2026 12:50:43.000 PM,03/16/2026 05:33:40.000 PM,Vesda,VSP-811,1,4,0,CZ,Arthur Malheiro,Fulfilled,Purchased,4,F,F,T,F. 49 a 60h,52,308,0,1
+SO207575,03/12/2026 02:22:02.000 PM,03/16/2026 09:04:00.000 AM,Yuasa,Y2.9-12,1,2,0,CZ,Arthur Malheiro,Committed,Purchased,2,F,T,F,E. 37 a 48h,42,26,1,0
+SO207575,03/12/2026 02:22:02.000 PM,03/16/2026 04:19:01.000 PM,Yuasa,Y2.9-12,1,2,0,CZ,Arthur Malheiro,Fulfilled,Purchased,2,F,F,T,F. 49 a 60h,49,26,0,1
+SO208213,03/16/2026 07:31:30.000 AM,03/16/2026 07:31:31.000 AM,EMS,SC-836-000,1,12,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,12,F,T,F,A. Under 1 Hour,0,45,1,0
+SO208213,03/16/2026 07:31:30.000 AM,03/17/2026 12:40:47.000 PM,EMS,SC-836-000,1,12,0,CZ,Arthur Malheiro,Committed,Purchased,12,F,T,F,D. 25 a 36h,29,45,1,0
+SO208218,03/16/2026 09:46:32.000 AM,03/16/2026 09:46:33.000 AM,Jewel Fire Group,6FX,1,2,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,47,1,0
+SO208220,03/16/2026 10:52:36.000 AM,03/16/2026 12:52:50.000 PM,FireClass,576.501.063,1,10,10,BX,Lorena Galvao,Allocated Supply,Purchased,10,F,T,F,I. Others,1,362,1,0
+SO208228,03/16/2026 12:15:46.000 PM,03/16/2026 12:21:40.000 PM,System Sensor,P2GRKLED,1,1,1,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,89,1,0
+SO208228,03/16/2026 12:15:46.000 PM,03/16/2026 12:21:40.000 PM,System Sensor,2WT-B,2,13,13,AX,Arthur Malheiro,Allocated Supply,Purchased,13,F,T,F,A. Under 1 Hour,0,657,1,0
+SO208307,03/16/2026 03:11:39.000 PM,03/16/2026 03:17:53.000 PM,Gentex,S,2,5,5,AX,Arthur Malheiro,Allocated Supply,Purchased,5,F,T,F,A. Under 1 Hour,0,347,1,0
+SO208326,03/16/2026 03:45:54.000 PM,03/16/2026 03:51:58.000 PM,Macurco,CX-6,1,2,2,CY,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,"1,807",1,0
+SO208428,03/16/2026 07:25:12.000 PM,03/16/2026 07:26:48.000 PM,System Sensor,SPCWL,2,10,8,AY,Arthur Malheiro,Allocated Supply,Purchased,10,F,T,F,A. Under 1 Hour,0,334,1,0
+SO208428,03/16/2026 07:25:12.000 PM,03/16/2026 07:26:48.000 PM,System Sensor,SPCWL,2,10,8,AY,Arthur Malheiro,Allocated Supply,Purchased,8,F,T,F,A. Under 1 Hour,0,334,1,0
+SO208428,03/16/2026 07:25:12.000 PM,03/16/2026 07:36:53.000 PM,System Sensor,SPCWL,2,10,8,AY,Arthur Malheiro,Committed,Purchased,10,F,T,F,A. Under 1 Hour,0,334,1,0
+SO208428,03/16/2026 07:25:12.000 PM,03/16/2026 07:36:53.000 PM,System Sensor,SPCWL,2,10,8,AY,Arthur Malheiro,Committed,Purchased,2,F,T,F,A. Under 1 Hour,0,334,1,0
+SO208428,03/16/2026 07:25:12.000 PM,03/16/2026 07:36:53.000 PM,System Sensor,SPCWL,2,10,8,AY,Arthur Malheiro,Committed,Purchased,3,F,T,F,A. Under 1 Hour,0,334,1,0
+SO208455,03/16/2026 08:10:16.000 PM,03/16/2026 08:16:01.000 PM,Ansul,9335,1,1,1,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,240,1,0
+SO208546,03/17/2026 07:46:01.000 AM,03/17/2026 12:36:37.000 PM,Jewel Fire Group,6WX,1,20,18,CZ,Arthur Malheiro,Allocated Supply,Purchased,20,F,T,F,B. 1 a 12h,4,446,1,0
+SO208547,03/17/2026 08:12:40.000 AM,03/17/2026 12:40:06.000 PM,Fike,505-0004,2,1,1,CZ,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,277,1,0
+SO208550,03/17/2026 08:22:04.000 AM,03/17/2026 01:36:10.000 PM,Kentec Electronics,U187,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,5,79,1,0
+SO208552,03/17/2026 08:46:23.000 AM,03/17/2026 12:36:37.000 PM,Jewel Fire Group,2CX,1,2,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,3,65,1,0
+SO208552,03/17/2026 08:46:23.000 AM,03/17/2026 12:36:37.000 PM,Jewel Fire Group,6WX,2,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,B. 1 a 12h,3,70,1,0
+SO208552,03/17/2026 08:46:23.000 AM,03/17/2026 08:46:24.000 AM,Jewel Fire Group,9WX,3,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,78,1,0
+SO208553,03/17/2026 09:12:11.000 AM,03/17/2026 01:36:10.000 PM,Kentec Electronics,KL11080M2,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,291,1,0
+SO208560,03/17/2026 11:09:01.000 AM,03/17/2026 12:40:06.000 PM,HAES Technologies,FAIS-R-B,1,10,10,CZ,Arthur Malheiro,Allocated Supply,Purchased,10,F,T,F,I. Others,1,153,1,0
+SO208562,03/17/2026 11:21:14.000 AM,03/17/2026 12:40:06.000 PM,Siemens,S54311-F111-A1,1,24,24,CZ,Lorena Galvao,Allocated Supply,Purchased,24,F,T,F,I. Others,1,785,1,0
+SO208564,03/17/2026 11:41:15.000 AM,03/17/2026 12:40:06.000 PM,C-TEC,NC809DBBT,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,15,1,0
+SO208572,03/17/2026 12:17:33.000 PM,03/17/2026 12:40:06.000 PM,Vimpex,903CHA4AO,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,18,1,0
+SO208577,03/17/2026 12:38:56.000 PM,03/17/2026 01:04:57.000 PM,CheckFire,RX-SQT-002-ECF,2,3,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,57,1,0
+SO208578,03/17/2026 12:39:19.000 PM,03/17/2026 01:28:15.000 PM,Yuasa,REC80-12I,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,425,1,0
+SO208657,03/17/2026 03:16:12.000 PM,03/17/2026 03:22:17.000 PM,Space Age,SSU-7-CO,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,179,1,0
+SO208689,03/17/2026 04:14:16.000 PM,03/17/2026 07:40:04.000 PM,C-TEC,NCP-27,1,8,8,CZ,Arthur Malheiro,Allocated Supply,Purchased,8,F,T,F,B. 1 a 12h,3,24,1,0
+SO208700,03/17/2026 04:31:20.000 PM,03/17/2026 07:40:04.000 PM,Rainbow Safety,PP58N-C/W-S/A,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,3,5,1,0
+SO208700,03/17/2026 04:31:20.000 PM,03/17/2026 05:04:54.000 PM,CheckFire,103P,2,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,2,1,0
+SO208700,03/17/2026 04:31:20.000 PM,03/17/2026 04:31:21.000 PM,Jewel Fire Group,6FX,4,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,49,1,0
+SO208713,03/17/2026 04:51:43.000 PM,03/17/2026 07:40:04.000 PM,FireBlitz,FBA-P1,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,22,1,0
+SO208764,03/17/2026 06:26:09.000 PM,03/17/2026 07:40:04.000 PM,Rainbow Safety,FIW.12Y-C/W-S/A,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,2,1,0
+SO208764,03/17/2026 06:26:09.000 PM,03/17/2026 07:04:44.000 PM,CheckFire,113P,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,1,1,0
+SO208764,03/17/2026 06:26:09.000 PM,03/17/2026 06:26:10.000 PM,CheckFire,RX-SQT-002-ECF,3,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,19,1,0
+SO208764,03/17/2026 06:26:09.000 PM,03/17/2026 06:26:10.000 PM,Jewel Fire Group,6FX,4,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,25,1,0
+SO208765,03/17/2026 06:26:33.000 PM,03/17/2026 07:40:04.000 PM,Vimpex,958CHL1000,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,43,1,0
+SO208858,03/17/2026 09:46:44.000 PM,03/17/2026 09:49:47.000 PM,Elite Security Products,D120DBR,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,41,1,0
+SO208894,03/18/2026 10:20:41.000 AM,03/18/2026 10:20:43.000 AM,Jewel Fire Group,6FX,1,2,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,49,1,0
+SO208894,03/18/2026 10:20:41.000 AM,03/19/2026 01:03:47.000 PM,Jewel Fire Group,6FX,1,2,0,CZ,Arthur Malheiro,Committed,Purchased,2,F,T,F,D. 25 a 36h,26,49,1,0
+SO208918,03/18/2026 01:16:27.000 PM,03/18/2026 01:18:11.000 PM,Simplex,4098-9733,1,3,0,AX,Lorena Galvao,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,49,1,0
+SO208918,03/18/2026 01:16:27.000 PM,03/18/2026 06:29:02.000 PM,Simplex,4098-9733,1,3,0,AX,Lorena Galvao,Committed,Purchased,3,F,T,F,B. 1 a 12h,5,49,1,0
+SO208918,03/18/2026 01:16:27.000 PM,03/18/2026 08:02:15.000 PM,Simplex,4098-9733,1,3,0,AX,Lorena Galvao,Fulfilled,Purchased,0,F,T,F,B. 1 a 12h,6,49,1,0
+SO208918,03/18/2026 01:16:27.000 PM,03/18/2026 08:02:15.000 PM,Simplex,4098-9733,1,3,0,AX,Lorena Galvao,Fulfilled,Purchased,3,F,T,F,B. 1 a 12h,6,49,1,0
+SO208960,03/18/2026 02:38:56.000 PM,03/18/2026 04:05:34.000 PM,C-TEC,NC806CS,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,I. Others,1,51,1,0
+SO209003,03/18/2026 03:46:01.000 PM,03/18/2026 04:05:34.000 PM,Rutland UK,ETS.18314.SE,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,137,1,0
+SO209006,03/18/2026 03:52:33.000 PM,03/18/2026 03:57:13.000 PM,Vesda,VBT-012,1,18,0,BY,Arthur Malheiro,Allocated Supply,Purchased,18,F,T,F,A. Under 1 Hour,0,"2,160",1,0
+SO209006,03/18/2026 03:52:33.000 PM,03/18/2026 03:57:13.000 PM,Vesda,VBT-012,1,18,0,BY,Arthur Malheiro,Committed,Purchased,18,F,T,F,A. Under 1 Hour,0,"2,160",1,0
+SO209006,03/18/2026 03:52:33.000 PM,03/18/2026 06:36:20.000 PM,Vesda,VBT-012,1,18,0,BY,Arthur Malheiro,Fulfilled,Purchased,18,F,T,F,B. 1 a 12h,2,"2,160",1,0
+SO209027,03/18/2026 04:48:48.000 PM,03/19/2026 02:34:26.000 PM,Eaton Wheelock,SHMP-R,1,9,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,C. 13 a 24h,21,114,1,0
+SO209039,03/18/2026 05:09:31.000 PM,03/18/2026 05:11:36.000 PM,Silent Knight,005860TR,2,10,1,BZ,Arthur Malheiro,Allocated Supply,Available in different location,1,F,T,F,A. Under 1 Hour,0,430,1,0
+SO209039,03/18/2026 05:09:31.000 PM,03/18/2026 05:11:36.000 PM,Silent Knight,005860TR,2,10,1,BZ,Arthur Malheiro,Allocated Supply,Available in different location,10,F,T,F,A. Under 1 Hour,0,430,1,0
+SO209055,03/18/2026 05:39:47.000 PM,03/19/2026 09:02:38.000 AM,Vesda,VP-ELB-90,4,5,0,AY,Arthur Malheiro,Allocated Supply,Available in different location,3,F,T,F,C. 13 a 24h,13,169,1,0
+SO209055,03/18/2026 05:39:47.000 PM,03/19/2026 09:02:38.000 AM,Vesda,VP-ELB-90,4,5,0,AY,Arthur Malheiro,Committed,Available in different location,3,F,T,F,C. 13 a 24h,13,169,1,0
+SO209133,03/18/2026 07:50:55.000 PM,03/18/2026 08:08:56.000 PM,System Sensor,5603,1,10,0,AY,Arthur Malheiro,Allocated Supply,Available in different location,10,F,T,F,A. Under 1 Hour,0,209,1,0
+SO209133,03/18/2026 07:50:55.000 PM,03/19/2026 09:02:59.000 AM,System Sensor,5603,1,10,0,AY,Arthur Malheiro,Committed,Available in different location,10,F,T,F,C. 13 a 24h,13,209,1,0
+SO209558,03/20/2026 08:56:19.000 AM,03/20/2026 01:41:02.000 PM,Ziton,ZP730-2P,1,2,2,CZ,Lorena Galvao,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,4,56,1,0
+SO209567,03/20/2026 11:16:28.000 AM,03/20/2026 02:05:39.000 PM,Fike,404-0006,1,2,2,CZ,Lorena Galvao,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,2,92,1,0
+SO209568,03/20/2026 11:22:46.000 AM,03/20/2026 11:26:54.000 AM,Power Sonic,PS-12260 NB2,1,2,2,CZ,Isabelle Cruz,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,171,1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 08:39:52.000 PM,Vesda,VSP-962,3,2,0,AY,Arthur Malheiro,Allocated Supply,BP Available in stock,2,F,T,F,I. Others,1,127,1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 08:39:52.000 PM,Vesda,VSP-962,3,2,0,AY,Arthur Malheiro,Committed,BP Available in stock,2,F,T,F,I. Others,1,127,1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:20:17.000 PM,Vesda,VSP-963,4,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,"1,335",1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/21/2026 09:02:27.000 AM,Vesda,VSP-961,7,12,12,BZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,449,1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/21/2026 09:02:27.000 AM,Vesda,VSP-961,7,12,12,BZ,Arthur Malheiro,Allocated Supply,Purchased,12,F,T,F,A. Under 1 Hour,0,449,1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:36:19.000 PM,Vesda,VSP-032,10,2,0,CZ,Arthur Malheiro,Allocated Supply,Available in different location,1,F,T,F,A. Under 1 Hour,0,"1,005",1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:36:19.000 PM,Vesda,VSP-032,10,2,0,CZ,Arthur Malheiro,Allocated Supply,Available in different location,2,F,T,F,A. Under 1 Hour,0,"1,005",1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:36:19.000 PM,Vesda,VSP-032,10,2,0,CZ,Arthur Malheiro,Committed,Available in different location,1,F,T,F,A. Under 1 Hour,0,"1,005",1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:36:19.000 PM,Vesda,VSP-032,10,2,0,CZ,Arthur Malheiro,Committed,Available in different location,2,F,T,F,A. Under 1 Hour,0,"1,005",1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:20:17.000 PM,Vesda,VSP-034,12,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,"1,441",1,0
+SO209743,03/20/2026 06:34:33.000 PM,03/20/2026 07:20:17.000 PM,Vesda,VP-UNION,21,12,10,BZ,Arthur Malheiro,Allocated Supply,Purchased,12,F,T,F,A. Under 1 Hour,0,480,1,0
+SO209952,03/23/2026 11:05:58.000 AM,03/23/2026 11:06:00.000 AM,Apollo,45681-509APO,1,4,4,BY,Arthur Malheiro,Allocated Supply,Purchased,4,F,T,F,A. Under 1 Hour,0,109,1,0
+SO209952,03/23/2026 11:05:58.000 AM,03/23/2026 02:45:35.000 PM,Power Sonic,PS-1221FR,5,2,2,CZ,Isabelle Cruz,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,3,25,1,0
+SO209952,03/23/2026 11:05:58.000 AM,03/23/2026 01:20:58.000 PM,C-TEC,CFP702-2,6,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,156,1,0
+SO209953,03/23/2026 11:12:50.000 AM,03/23/2026 01:40:45.000 PM,FireClass,576.501.063,1,8,8,BX,Lorena Galvao,Allocated Supply,Purchased,8,F,T,F,B. 1 a 12h,2,289,1,0
+SO209963,03/23/2026 12:00:50.000 PM,03/23/2026 12:00:51.000 PM,Fike,402-0006,1,2,0,CZ,Lorena Galvao,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,44,1,0
+SO209963,03/23/2026 12:00:50.000 PM,03/23/2026 04:23:28.000 PM,Fike,402-0006,1,2,0,CZ,Lorena Galvao,Committed,Purchased,2,F,T,F,B. 1 a 12h,4,44,1,0
+SO209963,03/23/2026 12:00:50.000 PM,03/23/2026 01:37:58.000 PM,Fike,204-0001,2,6,6,CZ,Lorena Galvao,Allocated Supply,Purchased,6,F,T,F,I. Others,1,239,1,0
+SO209964,03/23/2026 12:16:16.000 PM,03/23/2026 12:21:25.000 PM,Vesda,VP-UNION,2,2,0,BZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,89,1,0
+SO209964,03/23/2026 12:16:16.000 PM,03/23/2026 05:47:42.000 PM,Vesda,VP-UNION,2,2,0,BZ,Arthur Malheiro,Committed,Purchased,2,F,T,F,B. 1 a 12h,5,89,1,0
+SO209964,03/23/2026 12:16:16.000 PM,03/23/2026 07:27:03.000 PM,Vesda,VP-UNION,2,2,0,BZ,Arthur Malheiro,Fulfilled,Purchased,0,F,T,F,B. 1 a 12h,7,89,1,0
+SO209964,03/23/2026 12:16:16.000 PM,03/23/2026 07:27:03.000 PM,Vesda,VP-UNION,2,2,0,BZ,Arthur Malheiro,Fulfilled,Purchased,2,F,T,F,B. 1 a 12h,7,89,1,0
+SO209967,03/23/2026 12:46:14.000 PM,03/23/2026 02:05:42.000 PM,Gent,S3-VAD-HPR-R,1,1,1,CZ,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,I. Others,1,77,1,0
+SO210284,03/24/2026 09:56:20.000 AM,03/24/2026 01:40:43.000 PM,GeoFire,3-59-0362,1,5,5,CZ,Arthur Malheiro,Allocated Supply,Purchased,5,F,T,F,B. 1 a 12h,3,124,1,0
+SO210289,03/24/2026 11:26:58.000 AM,03/24/2026 01:40:44.000 PM,Yuasa,Y9-12,1,2,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,2,35,1,0
+SO210293,03/24/2026 12:06:56.000 PM,03/24/2026 01:40:44.000 PM,Yuasa,Y4-12,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,I. Others,1,29,1,0
+SO210298,03/24/2026 12:31:20.000 PM,03/24/2026 12:37:05.000 PM,Siemens,MT-SUR-BOX,1,4,0,CZ,Lorena Galvao,Allocated Supply,Available in different location,4,F,T,F,A. Under 1 Hour,0,153,1,0
+SO210298,03/24/2026 12:31:20.000 PM,03/24/2026 12:37:05.000 PM,Siemens,MT-SUR-BOX,1,4,0,CZ,Lorena Galvao,Committed,Available in different location,4,F,T,F,A. Under 1 Hour,0,153,1,0
+SO210298,03/24/2026 12:31:20.000 PM,03/25/2026 01:55:16.000 PM,Siemens,MT-SUR-BOX,1,4,0,CZ,Lorena Galvao,Fulfilled,Available in different location,4,F,T,F,D. 25 a 36h,25,153,1,0
+SO210309,03/24/2026 01:09:13.000 PM,03/24/2026 06:56:51.000 PM,Power Sonic,PS-1221FR,1,2,2,CZ,Isabelle Cruz,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,5,25,1,0
+SO210310,03/24/2026 01:12:49.000 PM,03/24/2026 04:47:54.000 PM,Simplex,49HFV-APPLC,1,10,3,BX,Lorena Galvao,Allocated Supply,Purchased,3,F,T,F,B. 1 a 12h,3,"2,164",1,0
+SO210310,03/24/2026 01:12:49.000 PM,03/24/2026 04:47:54.000 PM,Simplex,49HFV-APPLC,1,10,3,BX,Lorena Galvao,Allocated Supply,Purchased,4,F,T,F,B. 1 a 12h,3,"2,164",1,0
+SO210310,03/24/2026 01:12:49.000 PM,03/24/2026 06:59:35.000 PM,Simplex,49HFV-APPLC,1,10,3,BX,Lorena Galvao,Fulfilled,Purchased,7,F,T,F,B. 1 a 12h,5,"2,164",1,0
+SO210319,03/24/2026 01:38:46.000 PM,03/24/2026 01:56:46.000 PM,Ceasefire,CF-001333,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,86,1,0
+SO210319,03/24/2026 01:38:46.000 PM,03/24/2026 01:56:46.000 PM,FireBlitz,FBA-G4,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,257,1,0
+SO210337,03/24/2026 02:15:57.000 PM,03/24/2026 02:40:51.000 PM,Hispec,HSSA/MOD/RF-PRO,1,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,81,1,0
+SO210337,03/24/2026 02:15:57.000 PM,03/24/2026 02:40:51.000 PM,Hispec,HSSA/OP/10,2,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,106,1,0
+SO210405,03/24/2026 03:46:20.000 PM,03/24/2026 03:52:33.000 PM,Potter,PAD300-DUCT,1,3,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,595,1,0
+SO210405,03/24/2026 03:46:20.000 PM,03/24/2026 03:52:33.000 PM,Potter,PAD300-DUCT,1,3,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,595,1,0
+SO210428,03/24/2026 04:24:05.000 PM,03/24/2026 08:03:15.000 PM,Prysmian,AP007-R,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,3,13,1,0
+SO210428,03/24/2026 04:24:05.000 PM,03/24/2026 08:03:15.000 PM,LINIAN,2LCG0911CT300,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,3,6,1,0
+SO210434,03/24/2026 04:31:41.000 PM,03/24/2026 05:41:25.000 PM,GeoFire,3-87-0551,1,10,10,CZ,Arthur Malheiro,Allocated Supply,Purchased,10,F,T,F,I. Others,1,327,1,0
+SO210451,03/24/2026 04:55:51.000 PM,03/24/2026 04:55:52.000 PM,Lumi-Plugin,LS110WHMBWSA,1,1,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,76,1,0
+SO210451,03/24/2026 04:55:51.000 PM,03/25/2026 02:37:49.000 PM,Lumi-Plugin,LS110WHMBWSA,1,1,0,CZ,Arthur Malheiro,Committed,Purchased,1,F,T,F,C. 13 a 24h,21,76,1,0
+SO210568,03/24/2026 08:40:41.000 PM,03/24/2026 08:48:34.000 PM,Jewel Fire Group,3FX,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,22,1,0
+SO210627,03/25/2026 10:01:36.000 AM,03/25/2026 11:36:15.000 AM,Jewel Fire Group,6PX,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,25,1,0
+SO210628,03/25/2026 10:23:09.000 AM,03/25/2026 01:05:10.000 PM,Hochiki,DFG-60BLKJ,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,2,56,1,0
+SO210630,03/25/2026 11:01:27.000 AM,03/25/2026 11:01:29.000 AM,CheckFire,RX-SQT-002-ECF,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,18,1,0
+SO210637,03/25/2026 11:31:30.000 AM,03/25/2026 10:00:08.000 PM,FireBlitz,FBA-G2,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,8,112,1,0
+SO210646,03/25/2026 12:41:05.000 PM,03/25/2026 01:05:10.000 PM,Hochiki,ALN-EN,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,49,1,0
+SO210649,03/25/2026 12:52:46.000 PM,03/25/2026 10:36:17.000 PM,Fire-Lite,BAT-12120-BP,1,5,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,5,F,T,F,B. 1 a 12h,9,"3,415",1,0
+SO210652,03/25/2026 01:00:50.000 PM,03/25/2026 01:05:06.000 PM,Zeta,ID2-HR,1,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,84,1,0
+SO210667,03/25/2026 01:46:23.000 PM,03/25/2026 01:51:30.000 PM,Lumi-Plugin,LS110WHMBWSA,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,76,1,0
+SO210681,03/25/2026 02:13:40.000 PM,03/25/2026 02:15:20.000 PM,Edwards,SIGA-SD,6,1,1,AX,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,198,1,0
+SO210696,03/25/2026 02:32:33.000 PM,03/25/2026 08:47:28.000 PM,Siemens,TRI-R,1,3,3,BX,Lorena Galvao,Allocated Supply,Purchased,3,F,T,F,B. 1 a 12h,6,"4,352",1,0
+SO210708,03/25/2026 02:52:17.000 PM,03/25/2026 04:41:04.000 PM,ESP,FHD2,1,3,3,CZ,,Allocated Supply,Purchased,3,F,T,F,I. Others,1,29,1,0
+SO210724,03/25/2026 03:23:19.000 PM,03/25/2026 04:25:35.000 PM,Hochiki,ALN-EN(WHT)-SCI,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,I. Others,1,54,1,0
+SO210942,03/25/2026 09:40:44.000 PM,03/25/2026 10:05:17.000 PM,CheckFire,113P,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,1,1,0
+SO210942,03/25/2026 09:40:44.000 PM,03/26/2026 12:47:16.000 PM,CheckFire,113P,1,1,1,CZ,Arthur Malheiro,Committed,Purchased,1,F,T,F,C. 13 a 24h,15,1,1,0
+SO210942,03/25/2026 09:40:44.000 PM,03/25/2026 09:40:45.000 PM,CheckFire,RX-SQT-002-ECF,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,19,1,0
+SO210975,03/26/2026 08:41:15.000 AM,03/26/2026 01:33:12.000 PM,Ziton,ZP730-2P,1,30,28,CZ,Lorena Galvao,Allocated Supply,Purchased,30,F,T,F,B. 1 a 12h,4,855,1,0
+SO210978,03/26/2026 11:23:16.000 AM,03/26/2026 01:06:31.000 PM,FireChief,119-1948,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,5,1,0
+SO210979,03/26/2026 11:23:42.000 AM,03/26/2026 01:33:21.000 PM,Gent,S4-715,2,2,2,CZ,Lorena Galvao,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,2,80,1,0
+SO210980,03/26/2026 11:31:16.000 AM,03/26/2026 01:06:30.000 PM,FireChief,114-1036,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,37,1,0
+SO210989,03/26/2026 12:22:36.000 PM,03/26/2026 12:22:37.000 PM,Firexo,809-765-347-876,1,1,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,64,1,0
+SO210989,03/26/2026 12:22:36.000 PM,03/27/2026 10:41:26.000 AM,Firexo,809-765-347-876,1,1,0,CZ,Arthur Malheiro,Committed,Purchased,1,F,T,F,C. 13 a 24h,22,64,1,0
+SO210990,03/26/2026 12:26:46.000 PM,03/26/2026 04:05:39.000 PM,Space Age,SSU-7-CO,1,6,6,CZ,Arthur Malheiro,Allocated Supply,Purchased,6,F,T,F,B. 1 a 12h,3,"1,075",1,0
+SO210993,03/26/2026 12:41:32.000 PM,03/26/2026 01:06:30.000 PM,FireChief,134-1025,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,229,1,0
+SO210994,03/26/2026 12:45:50.000 PM,03/26/2026 01:33:21.000 PM,Jewel Fire Group,3FX,1,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,67,1,0
+SO211029,03/26/2026 02:23:54.000 PM,03/26/2026 02:40:47.000 PM,Cameo Systems,CSHK1/SS,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,107,1,0
+SO211036,03/26/2026 02:31:15.000 PM,03/26/2026 02:31:16.000 PM,GeoFire,2-31-0310-U005,1,1,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,5,1,0
+SO211036,03/26/2026 02:31:15.000 PM,03/27/2026 12:21:01.000 PM,GeoFire,2-31-0310-U005,1,1,0,CZ,Arthur Malheiro,Committed,Purchased,1,F,T,F,C. 13 a 24h,21,5,1,0
+SO211118,03/26/2026 05:13:11.000 PM,03/26/2026 05:13:12.000 PM,Firexo,809-765-347-846,1,3,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,107,1,0
+SO211118,03/26/2026 05:13:11.000 PM,03/27/2026 12:09:21.000 PM,Firexo,809-765-347-846,1,3,0,CZ,Arthur Malheiro,Committed,Purchased,3,F,T,F,C. 13 a 24h,18,107,1,0
+SO211285,03/27/2026 09:21:31.000 AM,03/27/2026 01:05:47.000 PM,Yuasa,Y2.9-12,1,6,6,CZ,Arthur Malheiro,Allocated Supply,Purchased,6,F,T,F,B. 1 a 12h,3,64,1,0
+SO211287,03/27/2026 10:15:50.000 AM,03/27/2026 01:39:42.000 PM,Vesda,OSP-004,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,3,81,1,0
+SO211297,03/27/2026 12:01:24.000 PM,03/27/2026 01:11:50.000 PM,C-TEC,CA470,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,28,1,0
+SO211307,03/27/2026 12:46:26.000 PM,03/27/2026 01:15:12.000 PM,Detector Testers,TESTIFIRE-USBC-001,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,15,1,0
+SO211313,03/27/2026 01:04:24.000 PM,03/27/2026 01:18:35.000 PM,Yuasa,Y2.1-12,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,10,1,0
+SO211322,03/27/2026 01:24:15.000 PM,03/27/2026 01:24:16.000 PM,STI,STI-6400,1,1,1,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,78,1,0
+SO211353,03/27/2026 02:39:18.000 PM,03/27/2026 06:40:48.000 PM,FireChief,107-1036,3,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,31,1,0
+SO211353,03/27/2026 02:39:18.000 PM,03/27/2026 06:40:48.000 PM,FireChief,101-1506,4,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,17,1,0
+SO211353,03/27/2026 02:39:18.000 PM,03/27/2026 06:40:48.000 PM,FireChief,134-1027,5,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,B. 1 a 12h,4,286,1,0
+SO211558,03/28/2026 09:22:59.000 AM,03/30/2026 01:45:22.000 PM,Jewel Fire Group,6WMSX,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,110,1,0
+SO211560,03/28/2026 10:22:35.000 AM,03/28/2026 10:22:36.000 AM,CheckFire,BUNSS07,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,157,1,0
+SO211591,03/28/2026 10:09:53.000 PM,03/30/2026 01:41:48.000 PM,FireBlitz,FBA-G2,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,118,1,0
+SO211595,03/28/2026 11:23:12.000 PM,03/28/2026 11:23:13.000 PM,FireChief,134-1027,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,95,1,0
+SO211603,03/29/2026 07:22:29.000 AM,03/29/2026 07:22:31.000 AM,Lumi-Plugin,LS110WHMBWSA,2,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,151,1,0
+SO211604,03/29/2026 09:10:58.000 AM,03/30/2026 01:41:48.000 PM,BLE,EL-131250,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,4,57,1,0
+SO211604,03/29/2026 09:10:58.000 AM,03/29/2026 09:35:38.000 AM,CheckFire,EE-AL-001-SIT,2,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,53,1,0
+SO211607,03/29/2026 11:09:36.000 AM,03/30/2026 01:45:22.000 PM,Jewel Fire Group,2FX,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,17,1,0
+SO211609,03/29/2026 12:37:40.000 PM,03/29/2026 12:37:41.000 PM,CheckFire,BUNSS07,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,314,1,0
+SO211610,03/29/2026 12:56:04.000 PM,03/30/2026 01:41:48.000 PM,FireBlitz,FBA-P1,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,22,1,0
+SO211621,03/29/2026 05:31:34.000 PM,03/30/2026 01:41:48.000 PM,FireBlitz,FBA-P1,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,22,1,0
+SO211633,03/29/2026 11:22:28.000 PM,03/30/2026 01:41:48.000 PM,Detector Testers,SOLO330-001,3,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,186,1,0
+SO211649,03/30/2026 06:26:29.000 AM,03/30/2026 02:41:34.000 PM,FireChief,100-1620,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,8,60,1,0
+SO211655,03/30/2026 11:31:20.000 AM,03/30/2026 11:31:21.000 AM,FireChief,134-1026,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,454,1,0
+SO211658,03/30/2026 11:53:28.000 AM,03/30/2026 01:45:22.000 PM,Jewel Fire Group,2FX,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,18,1,0
+SO211662,03/30/2026 12:13:38.000 PM,03/30/2026 02:41:34.000 PM,FireChief,100-1010,1,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,B. 1 a 12h,2,139,1,0
+SO211664,03/30/2026 12:20:53.000 PM,03/30/2026 12:27:17.000 PM,Kidde,SA-USB,1,1,1,BY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,127,1,0
+SO211689,03/30/2026 01:53:37.000 PM,03/30/2026 02:02:08.000 PM,GeoFire,3-80-0047,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,166,1,0
+SO211700,03/30/2026 02:23:22.000 PM,03/30/2026 02:40:31.000 PM,C-TEC,S-KEY,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,3,1,0
+SO211701,03/30/2026 02:23:47.000 PM,03/30/2026 02:40:31.000 PM,Yuasa,Y7-12,1,2,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,28,1,0
+SO211712,03/30/2026 02:46:21.000 PM,03/30/2026 02:46:22.000 PM,Firexo,809-765-347-876,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,64,1,0
+SO211712,03/30/2026 02:46:21.000 PM,03/30/2026 02:46:22.000 PM,Firexo,809-765-347-846,2,1,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,36,1,0
+SO211712,03/30/2026 02:46:21.000 PM,03/31/2026 12:41:33.000 PM,Firexo,809-765-347-846,2,1,0,CZ,Arthur Malheiro,Committed,Purchased,1,F,T,F,C. 13 a 24h,21,36,1,0
+SO211728,03/30/2026 03:10:50.000 PM,03/30/2026 03:10:51.000 PM,Firexo,809-765-347-876,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,64,1,0
+SO211905,03/30/2026 08:39:19.000 PM,03/30/2026 08:39:21.000 PM,Apollo,45681-510APO,2,1,1,BY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,19,1,0
+SO211988,03/31/2026 08:45:49.000 AM,03/31/2026 08:45:50.000 AM,Apollo,45681-510APO,1,9,9,BY,Arthur Malheiro,Allocated Supply,Purchased,9,F,T,F,A. Under 1 Hour,0,178,1,0
+SO211990,03/31/2026 09:46:36.000 AM,03/31/2026 01:32:23.000 PM,Global Fire Equipment,GFE-C-REM-IND(BLK),1,6,6,CZ,Arthur Malheiro,Allocated Supply,Purchased,6,F,T,F,B. 1 a 12h,3,45,1,0
+SO212001,03/31/2026 12:06:19.000 PM,03/31/2026 01:53:30.000 PM,Casil Batteries,2081-9279,1,2,0,BX,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,I. Others,1,"1,054",1,0
+SO212001,03/31/2026 12:06:19.000 PM,03/31/2026 01:53:30.000 PM,Casil Batteries,2081-9279,1,2,0,BX,Isabelle Cruz,Committed,Purchased,1,F,T,F,I. Others,1,"1,054",1,0
+SO212001,03/31/2026 12:06:19.000 PM,03/31/2026 04:32:22.000 PM,Casil Batteries,2081-9279,1,2,0,BX,Isabelle Cruz,Fulfilled,Purchased,2,F,T,F,B. 1 a 12h,4,"1,054",1,0
+SO212004,03/31/2026 12:39:24.000 PM,03/31/2026 01:32:23.000 PM,GeoFire,3-59-0365,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,27,1,0
+SO212010,03/31/2026 12:50:58.000 PM,03/31/2026 03:05:46.000 PM,System Sensor,2WT-B,1,2,2,AX,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,2,101,1,0
+SO212012,03/31/2026 12:59:16.000 PM,03/31/2026 03:05:50.000 PM,Ditek,DTK-120/240HW,1,1,1,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,71,1,0
+SO212040,03/31/2026 01:50:56.000 PM,03/31/2026 02:03:42.000 PM,System Sensor,2D51,1,10,10,BY,Arthur Malheiro,Allocated Supply,Purchased,10,F,T,F,A. Under 1 Hour,0,888,1,0
+SO212046,03/31/2026 01:57:30.000 PM,03/31/2026 02:15:46.000 PM,Edwards,270A-SPO,1,5,0,AY,Lorena Galvao,Allocated Supply,Available in different location,5,F,T,F,A. Under 1 Hour,0,126,1,0
+SO212046,03/31/2026 01:57:30.000 PM,03/31/2026 02:15:46.000 PM,Edwards,270A-SPO,1,5,0,AY,Lorena Galvao,Committed,Available in different location,5,F,T,F,A. Under 1 Hour,0,126,1,0
+SO212046,03/31/2026 01:57:30.000 PM,03/31/2026 02:50:55.000 PM,Edwards,270A-SPO,1,5,0,AY,Lorena Galvao,Fulfilled,Available in different location,5,F,T,F,A. Under 1 Hour,0,126,1,0
+SO212049,03/31/2026 02:01:28.000 PM,03/31/2026 02:12:23.000 PM,Simplex,4906-9101,1,1,0,AX,Lorena Galvao,Allocated Supply,Available in different location,1,F,T,F,A. Under 1 Hour,0,46,1,0
+SO212049,03/31/2026 02:01:28.000 PM,03/31/2026 02:12:23.000 PM,Simplex,4906-9101,1,1,0,AX,Lorena Galvao,Committed,Available in different location,1,F,T,F,A. Under 1 Hour,0,46,1,0
+SO212049,03/31/2026 02:01:28.000 PM,03/31/2026 02:58:06.000 PM,Simplex,4906-9101,1,1,0,AX,Lorena Galvao,Fulfilled,Available in different location,1,F,T,F,A. Under 1 Hour,0,46,1,0
+SO212095,03/31/2026 03:11:47.000 PM,04/01/2026 03:00:34.000 PM,System Sensor,CHSRLED,7,153,153,CZ,Arthur Malheiro,Allocated Supply,Purchased,153,F,T,F,C. 13 a 24h,22,"13,629",1,0
+SO212181,03/31/2026 06:03:19.000 PM,03/31/2026 06:14:13.000 PM,Honeywell,CCM2-AV-HON,6,1,1,BY,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,544,1,0
+SO212214,03/31/2026 06:46:32.000 PM,04/01/2026 03:00:32.000 PM,Det-Tronics,013321-022,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,C. 13 a 24h,20,"12,118",1,0
+SO212214,03/31/2026 06:46:32.000 PM,03/31/2026 06:50:27.000 PM,Det-Tronics,011385-001,2,2,2,BZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,329,1,0
+SO212214,03/31/2026 06:46:32.000 PM,04/01/2026 03:00:32.000 PM,Det-Tronics,007290-001,3,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,C. 13 a 24h,20,"1,023",1,0
+SO212234,03/31/2026 07:17:00.000 PM,03/31/2026 07:20:50.000 PM,Fiplex by Honeywell,BDA-NM-RN4P-10-NM,6,87,24,AY,Isabelle Cruz,Allocated Supply,Purchased,24,F,T,F,A. Under 1 Hour,0,"3,023",1,0
+SO212234,03/31/2026 07:17:00.000 PM,03/31/2026 07:20:50.000 PM,Fiplex by Honeywell,BDA-NM-RN4P-10-NM,6,87,24,AY,Isabelle Cruz,Allocated Supply,Purchased,87,F,T,F,A. Under 1 Hour,0,"3,023",1,0
+SO212234,03/31/2026 07:17:00.000 PM,03/31/2026 07:20:50.000 PM,Fiplex by Honeywell,BDA-NFP01250,11,3,3,BZ,Isabelle Cruz,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,74,1,0
+SO212309,03/31/2026 10:07:36.000 PM,03/31/2026 10:29:37.000 PM,System Sensor,PC2WLED,19,1,0,AX,Arthur Malheiro,Allocated Supply,Available in different location,1,F,T,F,A. Under 1 Hour,0,52,1,0
+SO212309,03/31/2026 10:07:36.000 PM,03/31/2026 10:29:37.000 PM,System Sensor,PC2WLED,19,1,0,AX,Arthur Malheiro,Committed,Available in different location,1,F,T,F,A. Under 1 Hour,0,52,1,0
+SO212309,03/31/2026 10:07:36.000 PM,04/01/2026 04:08:29.000 PM,System Sensor,PC2WLED,19,1,0,AX,Arthur Malheiro,Fulfilled,Available in different location,1,F,T,F,C. 13 a 24h,17,52,1,0
+SO212310,03/31/2026 10:09:30.000 PM,04/01/2026 09:02:52.000 AM,Fire-Lite,H365R-IV,1,4,0,BY,Arthur Malheiro,Allocated Supply,Available in different location,2,F,T,F,B. 1 a 12h,10,677,1,0
+SO212310,03/31/2026 10:09:30.000 PM,04/01/2026 09:02:52.000 AM,Fire-Lite,H365R-IV,1,4,0,BY,Arthur Malheiro,Committed,Available in different location,2,F,T,F,B. 1 a 12h,10,677,1,0
+SO212310,03/31/2026 10:09:30.000 PM,04/01/2026 01:32:57.000 PM,Fire-Lite,H365R-IV,1,4,0,BY,Arthur Malheiro,Fulfilled,Available in different location,4,F,T,F,C. 13 a 24h,15,677,1,0
+SO212312,03/31/2026 10:17:44.000 PM,03/31/2026 10:19:20.000 PM,System Sensor,PC2WLED,2,7,0,AX,Arthur Malheiro,Allocated Supply,Available in different location,7,F,T,F,A. Under 1 Hour,0,386,1,0
+SO212312,03/31/2026 10:17:44.000 PM,03/31/2026 10:19:20.000 PM,System Sensor,PC2WLED,2,7,0,AX,Arthur Malheiro,Committed,Available in different location,7,F,T,F,A. Under 1 Hour,0,386,1,0
+SO212312,03/31/2026 10:17:44.000 PM,04/01/2026 01:59:11.000 PM,System Sensor,PC2WLED,2,7,0,AX,Arthur Malheiro,Fulfilled,Available in different location,0,F,T,F,C. 13 a 24h,15,386,1,0
+SO212312,03/31/2026 10:17:44.000 PM,04/01/2026 01:59:11.000 PM,System Sensor,PC2WLED,2,7,0,AX,Arthur Malheiro,Fulfilled,Available in different location,7,F,T,F,C. 13 a 24h,15,386,1,0
+SO212631,04/02/2026 09:12:49.000 AM,04/02/2026 01:31:02.000 PM,Lumi-Plugin,LS110WHMBWHA,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,78,1,0
+SO212631,04/02/2026 09:12:49.000 AM,04/02/2026 09:12:51.000 AM,Lumi-Plugin,LS110WHMBWSA,2,5,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,5,F,T,F,A. Under 1 Hour,0,378,1,0
+SO212631,04/02/2026 09:12:49.000 AM,04/02/2026 06:20:57.000 PM,Lumi-Plugin,LS110WHMBWSA,2,5,0,CZ,Arthur Malheiro,Committed,Purchased,5,F,T,F,B. 1 a 12h,9,378,1,0
+SO212636,04/02/2026 11:36:14.000 AM,04/02/2026 01:31:02.000 PM,Vimpex,CA1290-V0,1,10,10,CZ,Arthur Malheiro,Allocated Supply,Purchased,10,F,T,F,I. Others,1,140,1,0
+SO212642,04/02/2026 12:12:12.000 PM,04/02/2026 01:31:02.000 PM,GeoFire,3-79-05200,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,64,1,0
+SO212953,04/03/2026 10:11:41.000 AM,04/03/2026 10:36:51.000 AM,Aico,Ei1516,1,3,3,CZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,6,1,0
+SO213042,04/03/2026 04:53:42.000 PM,04/03/2026 07:57:04.000 PM,System Sensor,D4120,1,20,20,AX,Arthur Malheiro,Allocated Supply,Available in different location,2,F,T,F,B. 1 a 12h,2,"3,771",1,0
+SO213042,04/03/2026 04:53:42.000 PM,04/03/2026 07:57:04.000 PM,System Sensor,D4120,1,20,20,AX,Arthur Malheiro,Allocated Supply,Available in different location,20,F,T,F,B. 1 a 12h,2,"3,771",1,0
+SO213042,04/03/2026 04:53:42.000 PM,04/03/2026 07:57:04.000 PM,System Sensor,DST10,2,40,40,BY,Arthur Malheiro,Allocated Supply,Available in different location,40,F,T,F,B. 1 a 12h,2,"1,412",1,0
+SO213088,04/03/2026 06:13:05.000 PM,04/03/2026 06:36:49.000 PM,Space Age,SSU00689,7,4,0,AX,Arthur Malheiro,Allocated Supply,Purchased,4,F,T,F,A. Under 1 Hour,0,358,1,0
+SO213088,04/03/2026 06:13:05.000 PM,04/03/2026 06:49:12.000 PM,Space Age,SSU00689,7,4,0,AX,Arthur Malheiro,Committed,Purchased,4,F,T,F,A. Under 1 Hour,0,358,1,0
+SO213088,04/03/2026 06:13:05.000 PM,04/03/2026 08:42:00.000 PM,Space Age,SSU00689,7,4,0,AX,Arthur Malheiro,Fulfilled,Purchased,0,F,T,F,B. 1 a 12h,2,358,1,0
+SO213088,04/03/2026 06:13:05.000 PM,04/03/2026 08:42:00.000 PM,Space Age,SSU00689,7,4,0,AX,Arthur Malheiro,Fulfilled,Purchased,4,F,T,F,B. 1 a 12h,2,358,1,0
+SO213193,04/04/2026 09:07:54.000 AM,04/06/2026 01:50:36.000 PM,C-TEC,BF430C/CC/SR,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,14,1,0
+SO213197,04/04/2026 12:06:01.000 PM,04/04/2026 12:07:38.000 PM,BRK,SMCO500V,1,4,4,BY,Arthur Malheiro,Allocated Supply,Purchased,4,F,T,F,A. Under 1 Hour,0,214,1,0
+SO213207,04/04/2026 04:39:16.000 PM,04/06/2026 02:39:49.000 PM,Solo,SOLO727-001,1,1,1,BZ,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,155,1,0
+SO213207,04/04/2026 04:39:16.000 PM,04/06/2026 01:50:36.000 PM,Detector Testers,SOLO770-001,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,109,1,0
+SO213211,04/04/2026 06:18:50.000 PM,04/06/2026 04:05:16.000 PM,Edwards,GCVRF,1,1,0,CZ,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,50,1,0
+SO213219,04/04/2026 09:07:27.000 PM,04/06/2026 01:50:36.000 PM,Fike,505-0004-B,2,1,1,CZ,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,277,1,0
+SO213240,04/05/2026 02:08:43.000 PM,04/06/2026 01:50:36.000 PM,EMS,SC-10-0000-KEY,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,12,1,0
+SO213269,04/06/2026 08:38:25.000 AM,04/06/2026 01:50:36.000 PM,FMC Fire Equipment,FMCUNI2R,2,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,5,42,1,0
+SO213272,04/06/2026 09:01:24.000 AM,04/06/2026 01:50:36.000 PM,C-TEC,CFP761,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,52,1,0
+SO213272,04/06/2026 09:01:24.000 AM,04/06/2026 01:50:36.000 PM,C-TEC,CFP760,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,4,157,1,0
+SO213320,04/06/2026 02:23:53.000 PM,04/06/2026 02:26:37.000 PM,APC,WP-2000,1,1,1,CY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,291,1,0
+SO213520,04/06/2026 08:12:53.000 PM,04/06/2026 08:29:48.000 PM,STI,STI-1130,1,1,1,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,108,1,0
+SO213570,04/06/2026 10:09:21.000 PM,04/06/2026 10:40:30.000 PM,CheckFire,FX-WCH-003-DCF,3,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,48,1,0
+SO213609,04/07/2026 09:08:52.000 AM,04/07/2026 09:36:25.000 AM,CheckFire,101P,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,1,1,0
+SO213746,04/07/2026 04:56:37.000 PM,04/07/2026 05:14:50.000 PM,Silent Knight,OSI-RI-SK,1,1,1,CY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,"1,342",1,0
+SO213758,04/07/2026 05:12:22.000 PM,04/07/2026 07:05:38.000 PM,Silent Knight,SK-PTIR-W,1,3,3,BZ,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,I. Others,1,345,1,0
+SO213763,04/07/2026 05:13:54.000 PM,04/07/2026 05:33:44.000 PM,ModuLaser,9-30699N-P,1,2,1,CY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,891,1,0
+SO213763,04/07/2026 05:13:54.000 PM,04/07/2026 05:33:44.000 PM,ModuLaser,9-30699N-P,1,2,1,CY,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,891,1,0
+SO213763,04/07/2026 05:13:54.000 PM,04/07/2026 06:12:02.000 PM,ModuLaser,9-30699N-P,1,2,1,CY,Arthur Malheiro,Committed,Purchased,1,F,T,F,A. Under 1 Hour,0,891,1,0
+SO213763,04/07/2026 05:13:54.000 PM,04/07/2026 06:12:10.000 PM,ModuLaser,9-30699N-P,1,2,1,CY,Arthur Malheiro,Fulfilled,Purchased,1,F,T,F,A. Under 1 Hour,0,891,1,0
+SO213784,04/07/2026 05:49:23.000 PM,04/07/2026 07:05:49.000 PM,System Sensor,RFP,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,73,1,0
+SO213928,04/07/2026 11:53:19.000 PM,04/08/2026 03:05:27.000 AM,Jewel Fire Group,9FX,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,3,61,1,0
+SO213954,04/08/2026 09:59:15.000 AM,04/08/2026 11:14:55.000 AM,FireChief,134-1026,1,1,0,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,227,1,0
+SO213954,04/08/2026 09:59:15.000 AM,04/08/2026 02:20:20.000 PM,FireChief,134-1026,1,1,0,CZ,Arthur Malheiro,Committed,Purchased,1,F,T,F,B. 1 a 12h,3,227,1,0
+SO213976,04/08/2026 12:23:08.000 PM,04/08/2026 12:23:10.000 PM,CheckFire,FX-PWD-001-DCF,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,12,1,0
+SO213982,04/08/2026 12:57:04.000 PM,04/08/2026 01:02:21.000 PM,Gentex,SR,1,5,5,AX,Arthur Malheiro,Allocated Supply,Purchased,5,F,T,F,A. Under 1 Hour,0,405,1,0
+SO213986,04/08/2026 01:06:59.000 PM,04/08/2026 01:10:26.000 PM,Apollo,SA5000-230APO,1,14,14,AY,Arthur Malheiro,Allocated Supply,Purchased,14,F,T,F,A. Under 1 Hour,0,134,1,0
+SO213991,04/08/2026 01:26:06.000 PM,04/08/2026 02:00:09.000 PM,Elite Security Products,EMBAT3.6V1800SER,1,15,15,CZ,Arthur Malheiro,Allocated Supply,Purchased,15,F,T,F,A. Under 1 Hour,0,97,1,0
+SO214020,04/08/2026 02:26:33.000 PM,04/08/2026 03:05:17.000 PM,Fire Beam Company,FIREBEAM-XTRA,2,1,1,CZ,,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,294,1,0
+SO214289,04/09/2026 08:46:01.000 AM,04/09/2026 08:46:03.000 AM,FireChief,134-1026,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,454,1,0
+SO214302,04/09/2026 12:31:34.000 PM,04/09/2026 02:52:35.000 PM,FireChief,122-1166,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,9,1,0
+SO214302,04/09/2026 12:31:34.000 PM,04/09/2026 02:52:35.000 PM,FireChief,119-1463,2,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,4,1,0
+SO214302,04/09/2026 12:31:34.000 PM,04/09/2026 02:52:35.000 PM,FireChief,119-1231,3,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,2,6,1,0
+SO214304,04/09/2026 12:33:28.000 PM,04/09/2026 04:40:54.000 PM,Power Sonic,PS-6100 F1,1,22,22,CZ,Isabelle Cruz,Allocated Supply,Purchased,22,F,T,F,B. 1 a 12h,4,447,1,0
+SO214309,04/09/2026 12:52:54.000 PM,04/09/2026 12:56:50.000 PM,Siemens,OP921,1,10,10,AX,Lorena Galvao,Allocated Supply,Purchased,10,F,T,F,A. Under 1 Hour,0,755,1,0
+SO214312,04/09/2026 01:01:39.000 PM,04/09/2026 01:06:13.000 PM,Eaton Wheelock,EL4XBB-R,1,30,0,BZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,988,1,0
+SO214312,04/09/2026 01:01:39.000 PM,04/09/2026 01:06:13.000 PM,Eaton Wheelock,EL4XBB-R,1,30,0,BZ,Arthur Malheiro,Allocated Supply,Purchased,30,F,T,F,A. Under 1 Hour,0,988,1,0
+SO214312,04/09/2026 01:01:39.000 PM,04/10/2026 03:12:01.000 PM,Eaton Wheelock,EL4XBB-R,1,30,0,BZ,Arthur Malheiro,Committed,Purchased,2,F,T,F,D. 25 a 36h,26,988,1,0
+SO214337,04/09/2026 02:11:15.000 PM,04/09/2026 04:04:23.000 PM,Scope Communications,GEO87ZM,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,150,1,0
+SO214338,04/09/2026 02:11:49.000 PM,04/09/2026 04:04:23.000 PM,Scope Communications,GEO87ZM,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,150,1,0
+SO214369,04/09/2026 03:04:38.000 PM,04/09/2026 06:10:19.000 PM,Comba,RX14V3-AP0-V2AU2X,13,1,1,CZ,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,I. Others,1,"26,350",1,0
+SO214369,04/09/2026 03:04:38.000 PM,04/09/2026 06:10:19.000 PM,Comba,RX07V3-A3327P0-S1,14,1,1,CZ,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,I. Others,1,"9,095",1,0
+SO214369,04/09/2026 03:04:38.000 PM,04/09/2026 06:10:19.000 PM,Comba,DC-E06-0N200L(XH),15,8,8,CZ,Isabelle Cruz,Allocated Supply,Purchased,8,F,T,F,I. Others,1,"1,456",1,0
+SO214369,04/09/2026 03:04:38.000 PM,04/09/2026 06:10:19.000 PM,Comba,PS-E2-0N50M(XH),16,7,7,CZ,Isabelle Cruz,Allocated Supply,Purchased,7,F,T,F,I. Others,1,770,1,0
+SO214369,04/09/2026 03:04:38.000 PM,04/09/2026 06:10:19.000 PM,Comba,DC-E10-0N200L(XH),17,1,1,CZ,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,I. Others,1,182,1,0
+SO214383,04/09/2026 03:26:00.000 PM,04/09/2026 03:30:58.000 PM,Hochiki,PL-2,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,4,1,0
+SO214413,04/09/2026 04:22:15.000 PM,04/09/2026 07:47:27.000 PM,Honeywell,HW-AV-LTE-M-2,7,1,1,AX,Isabelle Cruz,Allocated Supply,Purchased,1,F,T,F,B. 1 a 12h,3,116,1,0
+SO214413,04/09/2026 04:22:15.000 PM,04/09/2026 07:47:27.000 PM,Power Sonic,PS-12120 F2,8,2,2,AX,Isabelle Cruz,Allocated Supply,Purchased,2,F,T,F,B. 1 a 12h,3,68,1,0
+SO214609,04/10/2026 07:41:39.000 AM,04/10/2026 07:41:41.000 AM,GeoFire,3-87-0370,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,22,1,0
+SO214624,04/10/2026 12:01:44.000 PM,04/10/2026 01:39:58.000 PM,Evacuator Alarms,FMCEVASMPB,1,6,6,CZ,Arthur Malheiro,Allocated Supply,Purchased,6,F,T,F,I. Others,1,178,1,0
+SO214625,04/10/2026 12:06:40.000 PM,04/10/2026 01:39:46.000 PM,Kentec Electronics,K11031M2,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,I. Others,1,485,1,0
+SO214641,04/10/2026 12:39:19.000 PM,04/10/2026 01:39:58.000 PM,C-TEC,BF326/RF,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,16,1,0
+SO214641,04/10/2026 12:39:19.000 PM,04/10/2026 02:21:56.000 PM,Fike,205-0001,3,5,5,CZ,Lorena Galvao,Allocated Supply,Purchased,5,F,T,F,I. Others,1,257,1,0
+SO214641,04/10/2026 12:39:19.000 PM,04/10/2026 02:21:56.000 PM,Fike,403-0006,4,2,2,CZ,Lorena Galvao,Allocated Supply,Purchased,2,F,T,F,I. Others,1,74,1,0
+SO214641,04/10/2026 12:39:19.000 PM,04/10/2026 02:21:56.000 PM,Fike,540-0001,5,1,1,CZ,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,I. Others,1,489,1,0
+SO214647,04/10/2026 01:00:55.000 PM,04/10/2026 01:00:57.000 PM,FireChief,100-1677,2,5,,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,69,1,0
+SO214647,04/10/2026 01:00:55.000 PM,04/10/2026 01:00:57.000 PM,FireChief,100-1677,2,5,,CZ,Arthur Malheiro,Allocated Supply,Purchased,5,F,T,F,A. Under 1 Hour,0,69,1,0
+SO214665,04/10/2026 02:15:08.000 PM,04/10/2026 02:28:46.000 PM,Edwards,SIGA-SD,1,1,1,AX,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,198,1,0
+SO214683,04/10/2026 02:53:00.000 PM,04/10/2026 03:01:42.000 PM,Eaton Wheelock,EOLM-1,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,4,1,0
+SO214893,04/11/2026 04:08:30.000 PM,04/11/2026 04:11:09.000 PM,BRK,SMCO500V,1,1,1,BY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,54,1,0
+SO214896,04/11/2026 05:31:01.000 PM,04/11/2026 05:35:57.000 PM,Kidde,260-CO,1,1,0,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,109,1,0
+SO214896,04/11/2026 05:31:01.000 PM,04/13/2026 10:18:18.000 PM,Kidde,260-CO,1,1,0,AX,Arthur Malheiro,Committed,Purchased,1,F,T,F,B. 1 a 12h,4,109,1,0
+SO214900,04/11/2026 08:38:07.000 PM,04/13/2026 06:40:48.000 PM,System Sensor,2151,1,7,7,BY,Arthur Malheiro,Allocated Supply,Purchased,7,F,T,F,A. Under 1 Hour,0,409,1,0
+SO214927,04/12/2026 04:55:44.000 PM,04/12/2026 05:01:31.000 PM,Kidde,260-CO,1,1,0,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,104,1,0
+SO214927,04/12/2026 04:55:44.000 PM,04/13/2026 10:18:33.000 PM,Kidde,260-CO,1,1,0,AX,Arthur Malheiro,Committed,Purchased,1,F,T,F,B. 1 a 12h,5,104,1,0
+SO214943,04/13/2026 05:56:08.000 AM,04/13/2026 06:01:03.000 AM,BRK,SMCO500V,1,4,4,BY,Arthur Malheiro,Allocated Supply,Purchased,4,F,T,F,A. Under 1 Hour,0,214,1,0
+SO214993,04/13/2026 01:53:24.000 PM,04/13/2026 01:53:25.000 PM,FireChief,134-1026,1,1,1,CZ,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,227,1,0
+SO215059,04/13/2026 03:42:07.000 PM,04/13/2026 03:46:48.000 PM,Protectowire,PWSC,1,2,2,BZ,Isabelle Cruz,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,50,1,0
+SO215093,04/13/2026 04:47:43.000 PM,04/13/2026 04:48:11.000 PM,Fire-Lite,ES-1000X,1,1,0,BX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,"1,630",1,0
+SO215093,04/13/2026 04:47:43.000 PM,04/13/2026 06:47:39.000 PM,Fire-Lite,ES-1000X,1,1,0,BX,Arthur Malheiro,Committed,Purchased,1,F,T,F,I. Others,1,"1,630",1,0
+SO215093,04/13/2026 04:47:43.000 PM,04/13/2026 11:09:36.000 PM,Fire-Lite,ES-1000X,1,1,0,BX,Arthur Malheiro,Fulfilled,Purchased,1,F,T,F,B. 1 a 12h,6,"1,630",1,0
+SO215321,04/14/2026 11:51:49.000 AM,04/14/2026 11:56:38.000 AM,System Sensor,P2RLED,1,10,10,AX,Arthur Malheiro,Allocated Supply,Purchased,10,F,T,F,A. Under 1 Hour,0,605,1,0
+SO215345,04/14/2026 01:44:40.000 PM,04/14/2026 01:59:05.000 PM,Gamewell-FCI,ATD-L3-IV,1,1,1,AY,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,178,1,0
+SO215353,04/14/2026 01:56:47.000 PM,04/14/2026 01:56:48.000 PM,Advanced,MXP-002,1,1,1,CZ,Lorena Galvao,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,166,1,0
+SO215359,04/14/2026 02:00:58.000 PM,04/14/2026 02:00:59.000 PM,FireChief,119-1219,1,2,2,CZ,Arthur Malheiro,Allocated Supply,Purchased,2,F,T,F,A. Under 1 Hour,0,24,1,0
+SO215487,04/14/2026 06:07:21.000 PM,04/14/2026 06:10:43.000 PM,Fire-Lite,ES-1000X,1,1,1,BX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,"1,630",1,0
+SO215487,04/14/2026 06:07:21.000 PM,04/14/2026 06:10:44.000 PM,Fire-Lite,SLC-3LS,2,1,1,BY,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,418,1,0
+SO215487,04/14/2026 06:07:21.000 PM,04/14/2026 06:10:43.000 PM,Fire-Lite,ECC-50DA,9,3,3,CY,Arthur Malheiro,Allocated Supply,Purchased,3,F,T,F,A. Under 1 Hour,0,"3,501",1,0
+SO215487,04/14/2026 06:07:21.000 PM,04/15/2026 01:05:16.000 AM,System Sensor,SBBSPWL,33,59,51,BZ,Arthur Malheiro,Allocated Supply,Purchased,57,F,T,F,B. 1 a 12h,6,"1,224",1,0
+SO215487,04/14/2026 06:07:21.000 PM,04/14/2026 06:10:43.000 PM,System Sensor,SBBSPWL,35,15,15,BZ,Arthur Malheiro,Allocated Supply,Purchased,15,F,T,F,A. Under 1 Hour,0,311,1,0
+SO215491,04/14/2026 06:13:44.000 PM,04/14/2026 06:16:18.000 PM,System Sensor,P2RLED,4,15,15,AX,Arthur Malheiro,Allocated Supply,Purchased,15,F,T,F,A. Under 1 Hour,0,790,1,0
+SO215491,04/14/2026 06:13:44.000 PM,04/14/2026 06:16:18.000 PM,System Sensor,PC2RLED,7,40,6,AX,Arthur Malheiro,Allocated Supply,Purchased,40,F,T,F,A. Under 1 Hour,0,"2,148",1,0
+SO215491,04/14/2026 06:13:44.000 PM,04/14/2026 06:16:18.000 PM,System Sensor,PC2RLED,7,40,6,AX,Arthur Malheiro,Allocated Supply,Purchased,6,F,T,F,A. Under 1 Hour,0,"2,148",1,0
+SO215491,04/14/2026 06:13:44.000 PM,04/14/2026 06:30:25.000 PM,System Sensor,PC2RLED,7,40,6,AX,Arthur Malheiro,Committed,Purchased,34,F,T,F,A. Under 1 Hour,0,"2,148",1,0
+SO215576,04/14/2026 09:33:08.000 PM,04/14/2026 09:34:21.000 PM,Vesda,VP-P-210,1,1,,AX,Arthur Malheiro,Allocated Supply,Purchased,1,F,T,F,A. Under 1 Hour,0,315,1,0
